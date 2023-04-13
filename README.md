@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pankhuriiarora
-Currently working as a Technology Analyst with professional experience of 2.5 years
+Currently working as a Data Engineer with professional experience of 3.11 years
 
 - 👀 I’m interested in learning new technical skills
 - 🌱 I’m currently working on my development skills
