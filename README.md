@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pankhuriiarora
-Currently working as a Data Engineer with professional experience of 3.11 years
+Currently working as a Associate Solution Architect with professional experience of 4.5 years in development and design
 
 - 👀 I’m interested in learning new technical skills
 - 🌱 I’m currently working on my development skills
